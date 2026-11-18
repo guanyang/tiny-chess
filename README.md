@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/tiny-chess-01/guanyang/tiny-chess/rank.svg)](https://make.fun/bounty/tiny-chess-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
 [![reward](https://make.fun/badge/tiny-chess-01/guanyang/tiny-chess/reward.svg)](https://make.fun/bounty/tiny-chess-01?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
 
-A 3,166-byte chess engine in Python: 0x88 board, negamax with alpha-beta search, quiescence, transposition table, and a fixed 200,000-node budget per move (no clock, no randomness — deterministic). Practice Elo ~1,375 (mean of two practice trials), above the 1,154 final floor.
+A 3,243-byte chess engine in Python: 0x88 board, negamax with alpha-beta search, quiescence, transposition table, and a fixed 200,000-node budget per move (no clock, no randomness — deterministic). Practice Elo ~1,375 (mean of two practice trials), above the 1,154 final floor.
 
 ## Run it
 
